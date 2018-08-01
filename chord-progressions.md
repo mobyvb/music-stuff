@@ -1,8 +1,8 @@
 # Chord Progressions
 ## 4 Bar Chord Progressions Starting at I
 
-| # | | Bar 1| Bar 2| Bar 3| Bar 4 |
-|-|
+| \# | | Bar 1| Bar 2| Bar 3| Bar 4 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | **1.**| |  I |  |  |  |
 | **2.**| | I | IV | I |  |
 | **3.**| | I | IV | I | IV |
@@ -73,6 +73,7 @@
 ## 4 Bar Chord Progressions Starting at V
 ## 4 Bar Chord Progressions Starting at VI
 ## 4 Bar Chord Progressions Starting at bVII
+
 
 <style>
 table {
