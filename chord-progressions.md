@@ -75,3 +75,21 @@
 ## 4 Bar Chord Progressions Starting at bVII
 
 
+<style>
+table {
+    width:100%;
+    text-align: center;
+}
+th {
+  text-align: center
+}
+td {
+  font-family: serif
+}
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+</style>
