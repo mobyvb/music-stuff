@@ -13,6 +13,7 @@
 
 <a name="notes"></a>
 ## Notes
+![labeled keyboard]("images/keyboard-octave.png")
 
 <a name="intervals"></a>
 ## Intervals
@@ -42,4 +43,3 @@
 
 <a name="jazz-standards"></a>
 ## Learning Jazz Standards
-
