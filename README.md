@@ -1,5 +1,7 @@
 # Music Stuff
 ## Table of Contents
+* [Notes](#notes)
+* [Intervals](#intervals)
 * [Scales](#scales)
 * [Rhythm](#rhythm)
 * [Chords](#chords)
@@ -8,6 +10,12 @@
 * [Ear Training](#ear-training)
 * [Learning Songs by Ear](#learning-by-ear)
 * [Learning Jazz Standards](#jazz-standards)
+
+<a name="notes"></a>
+## Notes
+
+<a name="intervals"></a>
+## Intervals
 
 
 <a name="scales"></a>
