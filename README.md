@@ -3,7 +3,6 @@
 * [Pitches](#pitches)
 * [Intervals](#intervals)
 * [Scales](#scales)
-* [Rhythm](#rhythm)
 * [Chords](#chords)
     * [Triads](#triads)
     * [Seventh Chords](#sevenths)
@@ -13,8 +12,9 @@
     * [Chord Progressions](#progressions)
 * [Improvising](#improvising)
 * [Ear Training](#ear-training)
-* [Learning Songs by Ear](#learning-by-ear)
-* [Learning Jazz Standards](#jazz-standards)
+    * [Interval Detection](#interval-detection)
+    * [Melodic Dictation](#melodic-dictation)
+    * [Sight Singing](#sight-singing)
 
 <a name="pitches"></a>
 ## Pitches
@@ -198,12 +198,52 @@ Notes:
 
 <a name="Improvising"></a>
 ## Improvising
+We're finally at the fun part. This section will be primarily focused on piano improvisation, but a lot of the ideas are still applicable to other instruments, especially if you are playing with other people.
+
+To start off we'll play a simple ii7 -> Imaj7 progression in the left hand. Don't worry about keeping track of chord changes for now. Just change chords when you want. With your right hand, just pick a single note. The third degree of the scale tends to sound nice with those chords (so if you're playing D-7 -> Cmaj7, play E in your right hand). Play the ii7 chord and just experiment with that one note in your right hand. Get creative with the rhythm. Even with one note you can do a lot. When you get tired of how the ii7 chord sounds, switch to the Imaj7. Once you get bored of that, add in another note with your right hand. Maybe the fifth degree (G if you're playing D-7 -> Cmaj7). You should be able to see where this is going. Once you feel comfortable enough, adding one note at a time, start playing melodies in your right hand using all the notes in the scale. This exercise is super easy but you'd be surprised at how impressive it can seem to your friends ;)
+
+For the next exercise, play ii7 -> V7 -> Imaj7 in the left hand, and the major pentatonic scale in the right. This time, tap your foot, put on a drum track, or listen to a metronome. Count 1, 2, 3, 4 for the ii7, 1, 2, 3, 4 for the V7, and 1, 2, 3, 4, 1, 2, 3, 4 for the Imaj7. If this is too easy, add some complexity to the left hand to create more rhythmic interest. Pulse the chords or arpeggiate them (play notes within them individually rather than all at the same time). If you're feeling really ambitious, try playing chord voicings using both hands in addition to playing the melody in your right. Just make sure the melody note is the highest pitch in your voicings. Bonus points if the melody makes use of chord tones (especially thirds and sevenths!).
+
+Another fun exercise is to play the chords for 12 bar blues while improvising in the blues scale with your right hand.
+
+Pretty much all you have to do is pick some chords to play for the harmony, and pick a scale to play for the melody. That's all you need to start. The same steps apply for playing with other people.
 
 <a name="ear-training"></a>
 ## Ear Training
+In the improvisation section, the general process I discussed was "play random notes in one hand while playing chords in the other". This will be very satisfying at first, and others (especially non-musicians) will tend to enjoy listening to it. However, in my opinion, the end goal for improvising should be to be able to play what you imagine in your head, at the same time as you're imagining it. Letting your fingers go on autopilot playing random notes in a scale is not ideal for this goal.
 
-<a name="learning-by-ear"></a>
-## Learning Songs by Ear
+Fortunately, we can get better at translating what we imagine (or what we hear) directly to our instrument through ear training. The three types of ear training I'll cover in this section are interval detection, melodic dictation, and sight singing.
 
-<a name="jazz-standards"></a>
-## Learning Jazz Standards
+<a name="interval-detection"></a>
+### Interval Detection
+Interval detection is about hearing two notes (either one after the other or at the same time) and knowing instantly what the interval between those notes are. I think it's the easiest way to get started doing ear training, and even practicing it just five minutes a day will result in rapid improvement.
+
+I highly recommend using [this website](https://tonedear.com/ear-training/intervals) to practice interval detection. It allows you to select intervals to practice, and how you want to practice those intervals (ascending, descending, harmonic, or some combination). It will play two random notes and you will select the interval you think you heard. If you are correct enough times in a row, a new interval will be added.
+
+Another way to practice interval detection is to get someone else to play two random notes on an instrument without knowing the specific notes they're playing. Your job is to guess the interval and their job is to chastise you if you get it wrong.
+
+To start off, practice trying to distinguish perfect octaves, perfect fifths, and major thirds. These three intervals can be pretty difficult to distinguish if you haven't done any ear training before, but with a surprisingly small amount of practice, you'll soon be able to easily tell them apart. One by one, add more intervals until you are able to distinguish all the different intervals in the [intervals section](#intervals). Practice both *ascending* and *descending* intervals. You will thank yourself for it in the long run. Practicing harmonic intervals will be useful for eventually being able to tell chords apart. It's difficult to distinguish notes being played at the same time at first, but again, with practice it gets easier.
+
+A lot of people learn interval detection by associating intervals with songs. For instance, the first two notes in the Star Wars theme form a perfect fifth. I used to remember major thirds by thinking of the "ding dong" sound that doorbells make. *Avoid* relying on this technique. It is a crutch. You want to create a hard-wired connection in your brain connecting each interval to its sound. When you put your ear training skills to practical use, you won't have the time to think about what song an interval sounds like.
+
+<a name="melodic-dictation"></a>
+### Melodic Dictation
+Melodic dictation is the process of hearing a melody (usually a few times with breaks in between) and being able to transcribe the notes on paper. It will be very useful to know how to read and write sheet music to practice melodic dictation.
+
+Just like with interval detection, you can get a friend to play the melody while you can't see what notes they're playing, but I prefer to use [this website](http://www.teoria.com/en/exercises/md.php). Generally with melodic dictation, the first degree of the scale (or a chord progression) will be played to establish the key center. You will also be given a time signature and the number of measures in the melody.
+
+On the first playthrough of the melody, you should do rhythmic dictation to determine the lengths of the notes and the lengths of the rests between the notes. On a piece of paper, I'll usually draw some lines to separate measures, then I'll draw a vertical line for each beat in each measure. Then, while listening to the melody (and tapping my foot to the beat), I'll draw slashes, horizontal lines, and dots based on what I hear. A slash through a vertical line means a note started on that beat. A horizontal line through a vertical line means a note is continuing through that beat. A dot in between two vertical lines means a note starts between those two beats. [This video](https://www.youtube.com/watch?v=Qu8p_6tJYcQ) will surely do a better job at explaining rhythmic dictation than that terrible explanation.
+
+Once you have the rhythm down, you will be able to focus all your attention on pitch. Singing will come in handy at this part. You'll want to get some important notes in the scale in your head. You should already know what the tonic pitch sounds like. So sing the 1, 3, 5, and 1 up and down (with that second 1 being an octave above the first). In solfege that would be "do mi so do so mi do". Having the important notes in your head is very useful since it will help you identify those notes when you hear them in the melody. So even if you can't identify *every* note in the melody right away, you can identify some important ones, and think about how the other notes in the melody relate on future listens.
+
+Note the difference between the process for melodic dictation and interval detection. In interval detection, you are thinking about two notes as an isolated component: an interval. There isn't time for that in melodic dictation. You can't analyze every single interval between every two notes in a melody. So it is important to think in terms of scales, and not intervals for this type of ear training.
+
+<a name="sight-singing"></a>
+### Sight Singing
+Sight singing is being able to read a melody from sheet music, and given the tonic pitch, being able to sing the melody with the correct rhythm and pitch, without knowing what the melody sounds like beforehand. Unfortunately, I have yet to find a good free website for practicing sight singing, and as a result I barely practice it. However, it is still an important skill for ear training. Sight singing and melodic dictation are two sides of the same coin. By practicing one you will improve at the other.
+
+Singing, even if you don't intend to be a vocalist, is an essential skill for any musician. You don't need to be a good singer, you just need to be able to sing on pitch. Singing is the most natural way to get a melodic idea out. It takes a lot more practice to be able to play a melody you hear in your head on guitar or piano than it does to be able to sing that same melody.
+
+By improving at ear training, you will be able to imagine music in your head, and know what exactly it is you are imagining and how to translate that to your instrument. It should be obvious how this can help with everything from improvisation to songwriting. Additionally, you will be able to hear music from other people and have a better understanding of what is going on. Figuring songs out by ear becomes a lot easier.
+
+Once, when walking between classes when I was in college, I had a catchy melody stuck in my head. I didn't have my piano, but I was able to use my ear training practice to figure out the notes in the melody. Once I got to a computer, I put the notes I had figured out into a midi sequencer and listened to it. It wasn't perfect, but it was extremely close to the original melody. I was and still am pretty bad at interval detection, melodic dictation, and sight singing, but despite my entry-level skills, I was able to do a cool thing because of ear training. Don't neglect it :)
