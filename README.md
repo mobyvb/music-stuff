@@ -91,6 +91,20 @@ One of the first exercises I would recommend is playing every major scale. Play 
 
 <a name="chords"></a>
 ## Chords
+A chord is a basically a set of multiple pitches played simultaneously (usually pitches that sound nice together). This definition isn't perfect, but it will be sufficient for now.
+
+### Triads
+A triad is a type of chord made up of three notes. There are four main types of triads: major, minor, diminished, and augmented, but major and minor are by far the most common.
+
+Triads can be thought of in terms of degrees, which are defined in the [scales section](#scales). They can also be thought of as thirds stacked on top of each other starting at the chord's root note.
+
+| type | degrees | lower third | upper third | with root C |
+|:---:|:---:|:---:|:---:|
+| major | 1, 3, 5 | major | minor | C, E, G |
+| minor | 1, b3, 5 | minor | major | C, Eb, G |
+| diminished | 1, b3, b5 | minor | minor | C, Eb, Gb |
+| augmented | 1, 3, #5 | major | major | C, E, G# |
+
 
 <a name="functional"></a>
 ## Functional Harmony
