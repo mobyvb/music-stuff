@@ -148,7 +148,7 @@ Chords do not have to be played with their notes in the order defined above. By 
 **For seventh chords:**
 
 | type | lowest note | second note | third note | highest note |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | root position | root | third | fifth | seventh |
 | first inversion | third | fifth | seventh | root |
 | second inversion | fifth | seventh | root | third |
