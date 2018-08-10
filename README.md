@@ -10,6 +10,7 @@
     * [Inversions](#inversions)
     * [Voicings](#voicings)
 * [Functional Harmony](#functional)
+    * [Chord Progressions](#progressions)
 * [Improvising](#improvising)
 * [Ear Training](#ear-training)
 * [Learning Songs by Ear](#learning-by-ear)
@@ -109,6 +110,11 @@ Triads can be thought of in terms of degrees, which are defined in the [scales s
 | minor | 1, b3, 5 | minor | major | C, Eb, G |
 | diminished | 1, b3, b5 | minor | minor | C, Eb, Gb |
 | augmented | 1, 3, #5 | major | major | C, E, G# |
+Notes:
+* Common ways to denote a major chord (C): Cmaj, C
+* Common ways to denote a minor chord (C): Cmin, Cm, C-, c
+* Common ways to denote a diminished chord (C): Cdim, C&deg;
+* Common ways to denote an augmented chord (C): Caug, C<sup>+</sup>
 
 <a name="sevenths"></a>
 ### Seventh Chords
@@ -123,8 +129,11 @@ Seventh chords are triads with an extra note, a seventh, added on top. Seventh c
 | fully diminished | 1, b3, b5, bb7 | minor | minor | minor | C, Eb, Gb, A |
 
 Notes:
-* A half diminished chord is also known as a "minor 7 flat 5 chord".
-* If you see a seventh chord with no other indicators of type (e.g. G7), it is a dominant seventh chord.
+* Common ways to denote a major 7 chord (C): Cmaj7
+* Common ways to denote a dominant 7 chord (C): C7, Cdom7
+* Common ways to denote a minor 7 chord (C): Cmin7, Cm7, C-7
+* Common ways to denote a half diminished chord (C): C<sup>ø</sup>, C<sup>-7b5</sup>
+* Common ways to denote a fully diminished chord (C): C&deg;<sup>7</sup>, Cdim7
 
 <a name="inversions"></a>
 ### Inversions
@@ -158,6 +167,34 @@ Voicing a chord refers to the notes selected for playing a particular chord, the
 
 <a name="functional"></a>
 ## Functional Harmony
+Time to figure out how to relate chords and scales. Let's take the C major scale and figure out what chords fit within that scale, starting with triads.
+
+Each note in the C major scale can be thought of as the root note of some triad in that scale. So if we start with C, and look at all the different types of C triads (C major, C minor, C diminished, C augmented), we'll see that the only type of C chord that fits in the C major scale is C major. Now let's look at the second note in the scale, D. The only type of D triad that fits in the key of C major is D minor. Using this same process, we can find the remaining chords in the scale: E minor, F major, G major, A minor, and B diminished. We can generalize this to any major scale using roman numerals:
+
+I, ii, iii, IV, V, vi, vii&deg;
+
+where uppercase means major, lowercase means minor, and "&deg;" means diminished.
+
+Using the same process as with triads, we can figure out all the seventh chords that fit in a major scale:
+
+Imaj7, ii7, iii7, IVmaj7, V7, vi7, vii<sup>ø</sup>
+
+Again, uppercase means major. If "maj" is specified, it is a major 7. Otherwise it is a dominant 7. Lowercase means minor 7 and "<sup>ø</sup>" means half diminished.
+
+<a name="progressions"></a>
+### Chord Progressions
+Now we have almost have all the basic building blocks in place to play songs. Pitches are like letters, chords are like words, chord progressions are like sentences, and just as paragraphs are made up of sentences, songs are made up of chord progressions. It's really just a matter of practicing them (in all keys) and learning what they sound like. I have a giant list of chord progressions to practice [here](./chord-progressions/chord-progressions.md), but I'll put a few common ones to practice below:
+* I, IV, V, I - I distinctly remember this as the chord progression used to establish the key center in my music classes when we did melodic dictation.
+* I, V, vi, IV - This is that one chord progression that [all those pop songs use](https://www.youtube.com/watch?v=oOlDewpCfZQ).
+* ii7, V7, Imaj7 - Probably the most common chord progression in jazz. V7 -> Imaj7 is a perfect way to change keys in the middle of a song. You'll see it all the time when doing harmonic analysis on jazz standards
+* I \* 4, IV \* 2, I \* 2, V, IV, I \* 2 - The chords for 12 bar blues. A great way to practice improvisation.
+
+Notes:
+* The I chord is commonly referred to as the "tonic". The IV chord is commonly referred to as the "subdominant", and the V chord is commonly referred to as the "dominant".
+* The dominant chord, especially if it is a dominant 7 chord, tends to want to resolve to the tonic. This is excellent for building tension.
+* The subdominant chord also gravitates towards resolving to the tonic, but to a lesser degree than the dominant.
+* You can substitute chords to make your progressions sound more interesting. For instance, the I, iii, and vi chords can be substituted for each other. You can also substitute chords that are not in the scale. for instance, you could substitute a II chord for the ii chord.
+* Passing chords can make your progressions sound more interesting. Instead of I -> IV, you could try I -> I&deg; -> IV, which sounds awesome.
 
 <a name="Improvising"></a>
 ## Improvising
