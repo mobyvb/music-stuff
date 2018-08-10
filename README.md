@@ -5,6 +5,10 @@
 * [Scales](#scales)
 * [Rhythm](#rhythm)
 * [Chords](#chords)
+    * [Triads](#triads)
+    * [Seventh Chords](#sevenths)
+    * [Inversions](#inversions)
+    * [Voicings](#voicings)
 * [Functional Harmony](#functional)
 * [Improvising](#improvising)
 * [Ear Training](#ear-training)
@@ -93,6 +97,7 @@ One of the first exercises I would recommend is playing every major scale. Play 
 ## Chords
 A chord is a basically a set of multiple pitches played simultaneously (usually pitches that sound nice together). This definition isn't perfect, but it will be sufficient for now.
 
+<a name="triads"></a>
 ### Triads
 A triad is a type of chord made up of three notes. There are four main types of triads: major, minor, diminished, and augmented, but major and minor are by far the most common.
 
@@ -105,6 +110,51 @@ Triads can be thought of in terms of degrees, which are defined in the [scales s
 | diminished | 1, b3, b5 | minor | minor | C, Eb, Gb |
 | augmented | 1, 3, #5 | major | major | C, E, G# |
 
+<a name="sevenths"></a>
+### Seventh Chords
+Seventh chords are triads with an extra note, a seventh, added on top. Seventh chords are very common in jazz.
+
+| type | degrees | lower third | middle third | upper third | with root C |
+|:---:|:---:|:---:|:---:|
+| major 7 | 1, 3, 5, 7 | major | minor | major | C, E, G, B |
+| dominant 7 | 1, 3, 5, b7 | major | minor | minor | C, E, G, Bb |
+| minor 7 | 1, b3, 5, b7 | minor | major | minor | C, Eb, G, Bb |
+| half diminished | 1, b3, b5, b7 | minor | minor | major | C, Eb, Gb, Bb |
+| fully diminished | 1, b3, b5, bb7 | minor | minor | minor | C, Eb, Gb, A |
+
+Notes:
+* A half diminished chord is also known as a "minor 7 flat 5 chord".
+* If you see a seventh chord with no other indicators of type (e.g. G7), it is a dominant seventh chord.
+
+<a name="inversions"></a>
+### Inversions
+Chords do not have to be played with their notes in the order defined above. By reordering the notes that make up a chord, you can play different "inversions" of that chord. The chord won't sound exactly the same, but its [function](#functional) will be the same. This means when playing a chord progression, you can use inversions to more smoothly transition from one chord to another. Not only is it easier to play this way (in terms of hand movement), but it also sounds a lot better than playing every chord in root position.
+
+**For triads:**
+
+| type | lowest note | middle note | highest note |
+|:---:|:---:|:---:|:---:|
+| root position | root | third | fifth |
+| first inversion | third | fifth | root |
+| second inversion | fifth | root | third |
+
+**For seventh chords:**
+
+| type | lowest note | second note | third note | highest note |
+|:---:|:---:|:---:|:---:|
+| root position | root | third | fifth | seventh |
+| first inversion | third | fifth | seventh | root |
+| second inversion | fifth | seventh | root | third |
+| third inversion | seventh | root | third | fifth |
+
+<a name="voicings"></a>
+### Voicings
+Voicing a chord refers to the notes selected for playing a particular chord, the intervals between them, and their order. Inversions, discussed above, are one component of chord voicing. It is really up to you how to voice your chords, and there are a million ways to choose from, but here are some random notes to help:
+* You can use "open" or "closed" voicings. With closed voicings, all the notes in the chord fit within an octave. Open voicings take up more than an octave. An example of a closed voicing would be a basic C major chord in root position or any of its inversions (CEG, EGC, GCE). An example of an open voicing for C major would be taking the third and moving it above the fifth (CGE). Open voicings are useful for lower registers, since small intervals will begin to sound muddy the lower pitch gets.
+* There is nothing preventing you from playing more notes in your chord voicing. One way I'll voice chords on piano is by using a closed three or four note voicing with my right hand in the middle register, and an open three note voicing in my left hand, usually with the root doubled and the fifth in between.
+* The only two notes that differ across major seventh, minor seventh, and dominant seventh chords are the thirds and the sevenths. These are the two notes that give each chord its particular feeling. So a good way to voice seventh chords is to play the root note in the bass, and the third and seventh above. There is no need to include the fifth, since it does not play a large role in giving a seventh chord its character. One exception to this is when the fifth is not a perfect fifth, as is the case in half or fully diminished seventh chords. For these chords, the fifth is important since it makes the chord sound diminished.
+* If you are playing with others, and a bass player is playing the root note, there is no need to include the root note in your voicing. It can allow you to get more creative.
+* If a particular pitch isn't strictly in a chord, that doesn't mean you can't use it in your voicing. Including other pitches can bring a lot of color to an otherwise boring chord. Adding second or ninth to your voicing is a really simple example of this. For the chord C major, one such voicing is C in the bass, and DEG above. D is not in the C major chord, but it sounds nice, especially when you've already heard the basic voicings of C major a million times.
 
 <a name="functional"></a>
 ## Functional Harmony
