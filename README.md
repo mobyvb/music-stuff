@@ -192,7 +192,7 @@ Notes:
 * The dominant chord, especially if it is a dominant 7 chord, tends to want to resolve to the tonic. This is excellent for building tension.
 * The subdominant chord also gravitates towards resolving to the tonic, but to a lesser degree than the dominant.
 * You can substitute chords to make your progressions sound more interesting. For instance, the I, iii, and vi chords can be substituted for each other. You can also substitute chords that are not in the scale. for instance, you could substitute a II chord for the ii chord.
-* Passing chords can make your progressions sound more interesting. Instead of I -> IV, you could try I -> I&deg; -> IV, which sounds awesome.
+* Passing chords can make your progressions sound more interesting. Instead of I -> IV, you could try I -> I<sup>+</sup> -> IV, which sounds awesome.
 
 <a name="Improvising"></a>
 ## Improvising
