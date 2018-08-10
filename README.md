@@ -107,6 +107,7 @@ Triads can be thought of in terms of degrees, which are defined in the [scales s
 | minor | 1, b3, 5 | minor | major | C, Eb, G |
 | diminished | 1, b3, b5 | minor | minor | C, Eb, Gb |
 | augmented | 1, 3, #5 | major | major | C, E, G# |
+
 Notes:
 * Common ways to denote a major chord (C): Cmaj, C
 * Common ways to denote a minor chord (C): Cmin, Cm, C-, c
