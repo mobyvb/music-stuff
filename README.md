@@ -91,9 +91,6 @@ Notes about the table above:
 
 One of the first exercises I would recommend is playing every major scale. Play C major up and down one octave. Then move up a half step and play C# major. Then D major, D# major, F major, etc...
 
-<a name="rhythm"></a>
-## Rhythm
-
 <a name="chords"></a>
 ## Chords
 A chord is a basically a set of multiple pitches played simultaneously (usually pitches that sound nice together). This definition isn't perfect, but it will be sufficient for now.
