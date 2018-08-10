@@ -102,7 +102,7 @@ A triad is a type of chord made up of three notes. There are four main types of 
 Triads can be thought of in terms of degrees, which are defined in the [scales section](#scales). They can also be thought of as thirds stacked on top of each other starting at the chord's root note.
 
 | type | degrees | lower third | upper third | with root C |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | major | 1, 3, 5 | major | minor | C, E, G |
 | minor | 1, b3, 5 | minor | major | C, Eb, G |
 | diminished | 1, b3, b5 | minor | minor | C, Eb, Gb |
@@ -118,7 +118,7 @@ Notes:
 Seventh chords are triads with an extra note, a seventh, added on top. Seventh chords are very common in jazz.
 
 | type | degrees | lower third | middle third | upper third | with root C |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | major 7 | 1, 3, 5, 7 | major | minor | major | C, E, G, B |
 | dominant 7 | 1, 3, 5, b7 | major | minor | minor | C, E, G, Bb |
 | minor 7 | 1, b3, 5, b7 | minor | major | minor | C, Eb, G, Bb |
